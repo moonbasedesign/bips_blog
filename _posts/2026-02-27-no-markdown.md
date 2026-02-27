@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "This note is pulled straight from email (no markdown)"
+---
+
+It’s time for a Progress Report
+Just a short note to bring you up to speed on all of the hard work being done. Bowen Island Pickleball Society or BIPS is a registered society. We have a Board of Directors consisting of six individuals working to move the project of resurfacing the BICS outdoor Tennis Court forward.
+Thank you for writing to council in support of the resurfacing. It’s making a difference. We have seen that the Municipality has included the resurfacing and repainting in this year’s upcoming budget. Please participate in the Budget public consultation period February 23 - March 6th with an open house meeting on February 26th.  We want to stress the importance of the Pickleball lines on the court and the fact that 16 people can enjoy the court at one time.
+As a Board we have designed this wonderful logo. We have connected with PickleBall BC and in turn Pickleball Canada, and we will be the 105th affiliated club in BC and the first one this year! Affiliation with these two organizations will certainly give us support. We have also had two visits from companies to quote on the re-surfacing and they see four Pickleball courts overlayed on one Tennis Court, there will be both Tennis and PB.
+Lastly we are applying for a Bowen Foundation Community Impact Grant.
+Busy, Busy, Busy.
+Thank you for your support. Please use your voice, word of mouth is a powerful thing…
+Joanne Mogridge  President of Bowen Island Pickleball Society
