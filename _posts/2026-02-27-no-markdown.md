@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "This note is pulled straight from email (no markdown)"
+title:  "Plain text, straight from email"
 ---
 
 It’s time for a Progress Report
