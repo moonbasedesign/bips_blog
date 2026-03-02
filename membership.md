@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Board
-permalink: /board/
+title: Membership
+permalink: /membership/
 ---
 
 Our volunteer board consists of six individuals dedicated to furthering both pickleball play and pickleball well-being on  Bowen Island. They are: 
