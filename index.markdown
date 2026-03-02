@@ -5,3 +5,4 @@
 layout: home
 list_title: News
 ---
+[![BIPS logo]({{ "/assets/images/bips_logo.png" | relative_url }})]({{ "/assets/images/bips_logo.png" | relative_url }})
