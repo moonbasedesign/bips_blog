@@ -4,7 +4,7 @@ title: Code of Conduct
 permalink: /codeofconduct/
 ---
 
-## BOWEN ISLAND PICKLEBALL SOCIETY 
+### BOWEN ISLAND PICKLEBALL SOCIETY 
 
 * Maintain and enhance the dignity and self-esteem of members and non-members by: 
     Demonstrating respect for every person regardless of physical characteristics, athletic ability, age, colour, race, citizenship, ethnic origin, creed, disability, economic or marital status, gender identity or expression, or sexual orientation. 
