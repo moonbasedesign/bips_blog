@@ -30,7 +30,7 @@ Good news all around, and great news about the Hoodies: they come in just about 
 
 Send an email to [joanne@cocoawest.com](mailto:joanne@cocoawest.com?subject=Yes%20to%20the%20hoodie) and in the subject matter say **yes to the hoodie**, size and preferred colour. (Joanne is modelling a unisex size large in the photo.) Our hoodies will have our BIPS logo on the back as seen at the top of this page, and the BIPS letters on the front.
 
-![Joanne modelling a unisex size large hoodie]({{ "/assets/images/bips-hoodie.png" | relative_url }})
+<img src="{{ '/assets/images/bips-hoodie.png' | relative_url }}" alt="Joanne modelling a unisex size large hoodie" style="max-width:471px;width:80%;height:auto;" />
 
 ## Come play
 
