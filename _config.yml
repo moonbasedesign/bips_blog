@@ -25,6 +25,16 @@ url: "https://bowenislandpickleballsociety.ca"
 
 # Build settings
 theme: minima
+
+# Explicit nav order. Without this minima lists pages alphabetically, which would
+# put Contact between "Code of Conduct" and "Membership" rather than at the end.
+header_pages:
+  - about.markdown
+  - board.md
+  - code.md
+  - membership.md
+  - mission.md
+  - contact.md
 plugins:
   - jekyll-feed
 
